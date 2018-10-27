@@ -31,7 +31,7 @@ Did you ever find yourself hungry and wanted to cook something but don't know wh
 
 1.
 2.
-3.Web scrapping using Beautifulsoup to collect data and information and its free to use and it is licensed under MIT
-4.Keras for image detection and its free to use and it is licensed under MIT
+3.Web scrapping using Beautifulsoup to collect data and information and its free to use and it is licensed under MIT.
+4.Keras for image detection and its free to use and it is licensed under MIT.
 5. Used allrecipies site and here is permission for the user
     "Allrecipes.com's apps for smartphones allow users to access the site and its user-uploaded content while on the go"
