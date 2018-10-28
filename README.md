@@ -10,7 +10,10 @@ Did you ever find yourself hungry and wanted to cook something but don't know wh
 4. Web Scraping using bs4(Beautiful soup)- For scraping the images and required text from web and fetching the reicpes.
 
 ## Instructions
+ Download the apk file(Make A Recipe) from this repo and install the downloded apk file. Since the installing apk file is not from any store please enable the permissions to install the apk file. The android version of the app is kept low to enable it for maximum number of users the necessary permissions are asked only when they are required.
 
+##About Server
+https://drive.google.com/open?id=1vS3RqytLVNh9tjx9Z--Xsv1XKCPOhxJN
 ## Description
 
 1. The user opens his/her app and takes a photo of an ingredient and hits the submit button.
@@ -29,9 +32,9 @@ Did you ever find yourself hungry and wanted to cook something but don't know wh
 
 ## Copyright
 
-1.
-2.
-3.Web scrapping using Beautifulsoup to collect data and information and its free to use and it is licensed under MIT.
-4.Keras for image detection and its free to use and it is licensed under MIT.
+1. Django is an open source software.
+2. Android is free to use for every user.
+3. Web scrapping using Beautifulsoup to collect data and information and its free to use and it is licensed under MIT.
+4. Keras for image detection and its free to use and it is licensed under MIT.
 5. Used allrecipies site and here is permission for the user
     "Allrecipes.com's apps for smartphones allow users to access the site and its user-uploaded content while on the go"
