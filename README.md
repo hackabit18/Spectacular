@@ -12,7 +12,7 @@ Did you ever find yourself hungry and wanted to cook something but don't know wh
 ## Instructions
  Download the apk file(Make A Recipe) from this repo and install the downloded apk file. Since the installing apk file is not from any store please enable the permissions to install the apk file. The android version of the app is kept low to enable it for maximum number of users the necessary permissions are asked only when they are required.
 
-##About Server
+## Server
 https://drive.google.com/open?id=1vS3RqytLVNh9tjx9Z--Xsv1XKCPOhxJN
 ## Description
 
